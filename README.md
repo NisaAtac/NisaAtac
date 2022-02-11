@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Nisa Atac 👋
+
+As a self-taught full stack developer, I enjoy learning new technologies and challenge myself.
+
+- 🚀 I’m currently learning ReactJs and JavaScript Algorithms and Data Structures.
+- 💻 I’m currently working on a personal project called birthdays.
+- 📫 How to reach me: nisa.olgun@gmail.com
 
 <!--
 **NisaAtac/NisaAtac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📝 Resume.
 -->
