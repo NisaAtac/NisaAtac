@@ -3,7 +3,7 @@
 As a self-taught full stack developer, I enjoy learning new technologies and challenge myself.
 
 - 🚀 I’m currently learning ReactJs and JavaScript Algorithms and Data Structures.
-- 💻 I’m currently working on a personal project called birthdays.
+- 💻 I’m currently working on a personal project called birthday-tracker.
 - 📫 How to reach me: nisa.olgun@gmail.com
 
 <!--
